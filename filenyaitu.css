@@ -1,0 +1,79 @@
+@media (min-width: 576px) {   
+
+  }
+@media (min-width: 768px) {  
+
+   }
+@media (min-width: 992px) { 
+
+ }
+@media (min-width: 1200px) {
+}
+
+@font-face { font-family: Lemon; src: url('LEMONMILK-Medium.otf'); }
+
+.navbar {
+  background-color: teal;
+}
+.nav-link,
+.navbar-brand {
+  color: #fff;
+  cursor: pointer;
+}
+.nav-link {
+  margin-right: 1em !important;
+  font-family: Lemon;
+}
+.nav-link:hover {
+  color: #000;
+}
+.navbar-collapse {
+  justify-content: flex-end;
+}
+#menu_a {
+   height: 25px;
+   border-radius: 50%;
+}
+h2 {
+  font-family: Lemon;
+  font-size: 29px;
+}
+#uye_1 {
+  font-size: 29px;
+  font-family: Lemon;
+}
+.isifile {
+	text-align: left;
+  top: 38%;
+  position: absolute;
+	top: 45%;
+}
+.isifile h2 {
+	color: whitesmoke;
+}
+.isifile p {
+	color: white;
+
+}
+.header {
+  background-image: url('clay-banks-AuYrqX6PXYY-unsplash.jpg');
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+.fileitunya {
+	margin: 4em auto;
+	padding: 1em;
+	position: relative;
+}
+.fileitunya img {
+	-webkit-box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+	-moz-box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+	box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+	margin-bottom: 16px;
+  height : 230px;
+  width: 287px;
+}
+.bagian {
+  font-size: 13px;
+}
